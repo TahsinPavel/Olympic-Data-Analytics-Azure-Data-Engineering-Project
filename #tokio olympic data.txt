@@ -1,0 +1,8 @@
+#tokio olympic data
+
+
+Application (client) ID:  f50f96be-df91-4082-a1da-ad5d57eda3b1
+
+Directory (tenant) ID:    3d94fd6f-0755-49cc-a8ad-0b71b1db3ea0
+
+Secret Key:  		  JOV8Q~Q5FzjOgnK7hLamZGrJqBs~rXazYNfgGbF7
